@@ -14,3 +14,7 @@ It will show
 - The development of a repository layer to provide separation from the data source
 - How we can take advantage of the Dependency Inversion Principle
   to change from using the `List<>` to using Entity Framework Core with a database.
+
+&nbsp;
+
+![Exploring CSharp Workshop - Final Aim](https://github.com/spartaglobal/TrainingCentral/blob/main/04-Workshops_And_Events/Assets/TodoAPIWorkshopFinalAim.png)
